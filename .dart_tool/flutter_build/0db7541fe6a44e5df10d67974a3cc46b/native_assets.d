@@ -1,0 +1,1 @@
+ F:\\Projects\\FLUTTER_PROJECTS\\ecommerseapp2024\\.dart_tool\\flutter_build\\0db7541fe6a44e5df10d67974a3cc46b\\native_assets.yaml: 

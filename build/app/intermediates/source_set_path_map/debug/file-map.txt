@@ -1,0 +1,40 @@
+com.example.ecommerseapp2023.app-lifecycle-runtime-2.6.1-0 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\08e38f1210a570cdd6a8f6f0b0082c95\transformed\lifecycle-runtime-2.6.1\res
+com.example.ecommerseapp2023.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\32be4187d5a2f31a5274f31a48268dfe\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.ecommerseapp2023.app-lifecycle-livedata-core-2.6.1-2 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\371a54e3cdcb7e1d64af0b4e27ebce93\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.ecommerseapp2023.app-core-1.10.1-3 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\455f42bcf2dcdb0c2ede96afb55b4649\transformed\core-1.10.1\res
+com.example.ecommerseapp2023.app-jetified-savedstate-1.2.1-4 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\598f2d8ead597dddcf2e59c8f886db83\transformed\jetified-savedstate-1.2.1\res
+com.example.ecommerseapp2023.app-jetified-activity-1.7.2-5 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\61d4576a1856568742217391d7fc8c49\transformed\jetified-activity-1.7.2\res
+com.example.ecommerseapp2023.app-lifecycle-livedata-2.6.1-6 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\6a61c270c1c0d4b199f983f86225b5fe\transformed\lifecycle-livedata-2.6.1\res
+com.example.ecommerseapp2023.app-jetified-startup-runtime-1.1.1-7 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\6f261b0c4dbc4e7a71e072d48e913742\transformed\jetified-startup-runtime-1.1.1\res
+com.example.ecommerseapp2023.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-8 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\72266f6e58ec329641e6255be2fd45ef\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.ecommerseapp2023.app-lifecycle-viewmodel-2.6.1-9 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\799d9aa6a8d38c828714c7ffd1a1495c\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.ecommerseapp2023.app-core-runtime-2.2.0-10 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\7d56c19c8eab930a9e7eb841c739a0a5\transformed\core-runtime-2.2.0\res
+com.example.ecommerseapp2023.app-jetified-core-ktx-1.10.1-11 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\9332e832f074122ed5bec689f5938051\transformed\jetified-core-ktx-1.10.1\res
+com.example.ecommerseapp2023.app-jetified-play-services-base-18.1.0-12 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\a5bba699c3b5f24eb320f96847b46301\transformed\jetified-play-services-base-18.1.0\res
+com.example.ecommerseapp2023.app-jetified-play-services-basement-18.3.0-13 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\affad4ec384df4ecaa98cc20afa8a861\transformed\jetified-play-services-basement-18.3.0\res
+com.example.ecommerseapp2023.app-browser-1.4.0-14 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\c3c79cd8f8a9bbb93bd36edb89a3dd2e\transformed\browser-1.4.0\res
+com.example.ecommerseapp2023.app-jetified-firebase-common-20.4.3-15 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\d283fb92646399048f9f3fe65cb671da\transformed\jetified-firebase-common-20.4.3\res
+com.example.ecommerseapp2023.app-jetified-annotation-experimental-1.3.0-16 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\e1f1a3ef1cd863d343d04af33849c06e\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.ecommerseapp2023.app-jetified-profileinstaller-1.3.0-17 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\e6099868a74e06f9ad93d7e89b379a25\transformed\jetified-profileinstaller-1.3.0\res
+com.example.ecommerseapp2023.app-jetified-window-1.0.0-beta04-18 C:\Users\Sandeepa Charith\.gradle\caches\transforms-3\ff1d30a67bfc0bc1a8f7c8e5761f5ff2\transformed\jetified-window-1.0.0-beta04\res
+com.example.ecommerseapp2023.app-debug-19 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\android\app\src\debug\res
+com.example.ecommerseapp2023.app-main-20 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\android\app\src\main\res
+com.example.ecommerseapp2023.app-RES-21 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\RES\processDebugGoogleServices
+com.example.ecommerseapp2023.app-res-22 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\generated\crashlytics\res\debug
+com.example.ecommerseapp2023.app-pngs-23 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\generated\res\pngs\debug
+com.example.ecommerseapp2023.app-resValues-24 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\generated\res\resValues\debug
+com.example.ecommerseapp2023.app-rs-25 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\generated\res\rs\debug
+com.example.ecommerseapp2023.app-mergeDebugResources-26 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.ecommerseapp2023.app-mergeDebugResources-27 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.ecommerseapp2023.app-merged_res-28 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\app\intermediates\merged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-29 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-30 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\firebase_auth\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-31 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\firebase_core\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-32 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\firebase_storage\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-33 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\flutter_native_splash\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-34 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-35 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\image_picker_android\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-36 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\libphonenumber\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-37 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\libphonenumber_plugin\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-38 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\path_provider_android\intermediates\packaged_res\debug
+com.example.ecommerseapp2023.app-packaged_res-39 F:\Projects\FLUTTER_PROJECTS\ecommerseapp2024\build\phone_number\intermediates\packaged_res\debug
